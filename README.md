@@ -5,7 +5,6 @@ famously known as RASHI used to calculate optimum number of gateways required
 to connect a System of IOT Devices
 @name RASHIv1.1
 @version 1.1
-@author Praveen Mishra 
 @institue Kalyani Goverment Engineering College IT Depatment
 
 ### Prerequisites
